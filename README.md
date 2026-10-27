@@ -1,5 +1,5 @@
 # Hi, I'm Paweł! 👋
-I am a 4th-semester **Applied Computer Science** student at the **Wrocław University of Science and Technology** and a certified IT Technician.
+I am a 5th-semester **Applied Computer Science** student at the **Wrocław University of Science and Technology** and a certified IT Technician.
 
 <!--
 **pawel200435/pawel200435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
